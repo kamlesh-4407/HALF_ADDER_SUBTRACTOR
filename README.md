@@ -96,4 +96,4 @@ Developed by:KAMLESH.Y RegisterNumber:24003690
 
 
 **Result:**
-The code is excecuted successfully.
+Thus the truth table of half adder and half subtractor in Quartus II using Verilog programming is verified
